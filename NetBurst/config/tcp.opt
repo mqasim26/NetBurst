@@ -1,0 +1,17 @@
+record,1
+sport,7601
+dport,1201
+win,77
+urg,9
+urg,8
+seq,11
+ack,8
+control,th_ack!
+sport,7601
+dport,1201
+win,77
+urg,9
+urg,8
+seq,11
+ack,8
+control,th_psh!

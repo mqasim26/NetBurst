@@ -1,0 +1,7 @@
+record, 1
+id, 2
+frag, 66
+ttl, 123
+saddr, 192.168.0.2
+daddr, 192.168.0.1
+tos,iptos_lowdelay | iptos_throughput | iptos_reliability | iptos_mincost!
